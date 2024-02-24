@@ -1,2 +1,1 @@
-console.log("Hello, my name is saqib and it is my first project")
-
+console.log("Hello, This is my first project of typescript and i want to say thanks to governor of Sindh Mr. Kamran Khan Tessori")
